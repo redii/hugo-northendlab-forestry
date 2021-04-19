@@ -9,3 +9,5 @@ type = "post"
 
 +++
 qwe123
+
+![](/images/tools/xd.png)
