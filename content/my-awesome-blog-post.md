@@ -10,6 +10,6 @@ type = "post"
 +++
 qwe123
 
-![](/images/tools/favicon.png "qweqwe")
+![qwe3](/images/tools/favicon.png "qweqwe")
 
-![](/images/hugo-muscot.svg "qwe")
+![qwe2](/images/hugo-muscot.svg "qwe")
