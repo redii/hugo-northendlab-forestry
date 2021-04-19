@@ -10,4 +10,6 @@ type = "post"
 +++
 qwe123
 
-![](/images/tools/xd.png)
+![](/images/tools/favicon.png)
+
+![](/images/hugo-muscot.svg)
